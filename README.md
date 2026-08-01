@@ -2,9 +2,9 @@
 
 [Kaneo](https://kaneo.app) — "All you need. Nothing you don't." Open source project management (kanban, tasks, time tracking, GitHub/GitLab sync) que roda na **imagem oficial** — sem build customizado, deploy em ~2min.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new?template=https://github.com/marco-quintella/kaneo-postgres)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/kaneo-postgres)
 
-> **Nota:** após publicar o template no marketplace (Dashboard → Templates → Publish), substitua o link acima pelo oficial gerado na publicação (`railway.com/new/template/<CODE>`).
+> **Nota:** publicado no marketplace — [railway.com/deploy/kaneo-postgres](https://railway.com/deploy/kaneo-postgres)
 
 ## Stack
 
